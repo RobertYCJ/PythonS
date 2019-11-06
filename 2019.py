@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 a = 123
-print(a)
+b = a*2 
+print(b)
